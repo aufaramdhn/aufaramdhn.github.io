@@ -1,0 +1,36 @@
+section {
+  padding-top: 6rem;
+}
+.navbar {
+  font-family: "comic sans ms";
+  background-color: #6e3cbc;
+}
+.favicon {
+  border-radius: 50%;
+}
+.jumbotron {
+  background-image: linear-gradient(to bottom right, #98bae7, #7267cb);
+  padding-top: 8rem;
+  font-family: "allerta", sans-serif;
+}
+.btn {
+  background-color: #3e00ff;
+  border: 4px solid #3e00ff;
+  border-radius: 10px;
+  color: #ffffff;
+}
+.btn:hover {
+  border: 4px solid #3e00ff;
+  border-radius: 10px;
+  color: #000000;
+  background-color: #ffffff;
+}
+#project {
+  background-color: #e2edff;
+}
+#contact {
+  background-color: #7267cb;
+}
+footer {
+  background-color: #6e3cbc;
+}
