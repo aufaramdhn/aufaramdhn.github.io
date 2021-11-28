@@ -1,9 +1,11 @@
 section {
   padding-top: 8rem;
 }
+.nav {
+  background-image: linear-gradient(to top right, #98bae7, #7267cb);
+}
 .navbar {
   font-family: "comic sans ms";
-  background-color: #6e3cbc;
 }
 .favicon {
   border-radius: 50%;
